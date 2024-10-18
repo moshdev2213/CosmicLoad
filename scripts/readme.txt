@@ -1,0 +1,1 @@
+The script shown here isthe pre-script that runs when each vm gets created in the GCP environment
