@@ -24,7 +24,7 @@ by leveraging Google's global infrastructure.
 3. **Instance Groups** 🛠️:
    - **us-central** (Iowa): Includes 4 availability zones.
    - **asia-southeast1** (Singapore): Includes 3 availability zones.
-4. **Cloud Armour** 🛡️: Blocks requests originating from India to improve security and control access.
+4. **Cloud Armour** 🛡️: Blocks requests originating from India to improve security and control access.(Due to free-account gcp restricts cloud-armour quota)
 5. **Auto Scaling** 📈: Dynamically scales instances based on CPU utilization:
    - **us-central**: Min 4 instances, max 8 instances.
    - **asia-southeast1**: Min 3 instances, max 6 instances.
