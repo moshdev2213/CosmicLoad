@@ -1,7 +1,9 @@
 
 # 🌌 CosmicLoad: GCP Global Load Balancer
 
-<img width="720" alt="22 (2)" src="https://github.com/user-attachments/assets/7af82fc9-8f23-4a3a-ad16-169d7066d2df">
+<p align="center">
+  <img width="720" alt="22 (2)" src="https://github.com/user-attachments/assets/7af82fc9-8f23-4a3a-ad16-169d7066d2df">
+</p>
 
 ## 🌟 Global LoadBalancer Response
 
